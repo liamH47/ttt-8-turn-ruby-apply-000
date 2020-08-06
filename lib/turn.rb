@@ -15,7 +15,7 @@ def turn(board)
     move(board, index)
     display_board(board)
   else
-    turn(baord)
+    turn(board)
   end
 end
 
